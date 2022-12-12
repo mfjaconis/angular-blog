@@ -14,7 +14,7 @@ export const dataFake = [
   {
     "id":"3",
     "title": "Novo filme Pantera Negra será lançado em breve",
-    "description": "Marvel anuncia novo Pantera Negra",
+    "description": "Marvel anuncia novo Pantera Negra.",
     "photoCover":"https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/09/548x377/1_pantera_negra_wakanda_para_sempre-26819084.jpg?20221109143843?20221109143843"
   },
   {
