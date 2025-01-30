@@ -1,27 +1,41 @@
-# AngularBlog
+# Angular Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+Este projeto é uma aplicação web desenvolvida em Angular, com o objetivo de demonstrar a criação de um blog funcional. Ele aborda conceitos importantes como organização modular, componentes reutilizáveis e integração de dados dinâmicos.
 
-## Development server
+## 🚀 Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular**: Framework principal para construção da aplicação.
+- **TypeScript**: Linguagem utilizada para desenvolvimento.
+- **HTML5 e CSS3**: Para estruturação e estilização do layout.
+- **Angular CLI**: Ferramenta para scaffolding e gerenciamento do projeto.
 
-## Code scaffolding
+## 🌟 Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Listagem de posts**: Exibe uma lista de publicações.
+- **Detalhes de posts**: Permite visualizar informações completas de um post.
+- **Componentes reutilizáveis**: Projetados para facilitar a manutenção e escalabilidade.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## ⚙️ Como Executar
 
-## Running unit tests
+### Pré-requisitos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Certifique-se de ter instalado:
+- [Node.js](https://nodejs.org/)
+- [Angular CLI](https://angular.io/cli)
 
-## Running end-to-end tests
+### Passos
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/mfjaconis/angular-blog.git
+   cd angular-blog
+   
+2. Instale as dependências:
+   ```bash
+   npm install
 
-## Further help
+3.Inicie o servidor de desenvolvimento:
+  ```bash
+  ng serve
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
